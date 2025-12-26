@@ -13,13 +13,15 @@ This project is a Python-based Resume Scanner that extracts text from PDF resume
 - Regular Expressionns(for text cleaning and skill matching)
 ## Project Structure
 resume-scanner/
-|--kavya_resume.pdf
-|--resume_scanner.py
-|--README.md
+│
+├──  README.md           # Project documentation
+├── kavya_resume.pdf       # Main Python script for scanning and validating resume skills, email,mobile number 
+└──  resume_scanner.py           #Sample resume file used for testing
+
 ## How to Run
-1. install the required library:pip install pyPDF2
+1. install the required library : pip install pyPDF2
 2. place  your resume PDF in the project folder and name it 'resume.pdf'
-3. Run the program:py resume_scanner.py
+3. Run the program : py resume_scanner.py
 ## Sample Output
 
 Email Found:
