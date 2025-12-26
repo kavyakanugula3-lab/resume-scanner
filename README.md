@@ -1,4 +1,4 @@
--# Resume Scanner
+# Resume Scanner
 ## 1. Project Overview
 This project is a Python-based Resume Scanner that extracts text from PDF resumes and verifies whether all required technical skills,email ,and mobile number are present. The application cleans and normalizes resume content to handle PDF formatting issues and performs rule-based skill validation. This project helps in understanding file handling, text processing, and basic resume screening logic.
 ## 2. Features
